@@ -15,14 +15,14 @@
 > ➜ **linkedin:** [Mohammed Zaid](https://www.linkedin.com/in/mohammed-zaid-823a20240/)  
 > ➜ **twitter:** [@mhdzaaaid](https://twitter.com/mhdzaaaid)  
 > ➜ **spotify:** [Zaid](https://open.spotify.com/user/31d3y5zjo3f6lqz2rw2r5qah5c3a)  
-> ➜ **indie hacker:** [Mohammed Zaid on Indie Hackers](https://www.indiehackers.com/) <!-- Replace if you have a direct profile link -->
+> ➜ **indie hacker:** [Mohammed Zaid on Indie Hackers]([https://www.indiehackers.com/](https://www.reddit.com/u/Zaaaaaaid/s/vBkZH5RWQI)) <!-- Replace if you have a direct profile link -->
 
 ---
 
 ## 🧰 Toolbox
 
 ```text
-Python      | JavaScript      | HTML/CSS      | C++      | Linux/Bash
+Python      | JavaScript      | HTML/CSS      | Wibe Coder
 Git/GitHub  | VS Code         | Indie Hacker  | AI/ML    | Open Source
 ```
 
