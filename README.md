@@ -1,9 +1,5 @@
 <!-- Mohammed Zaid - AI/ML Student 🚀 -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=MohammedZaid-AI&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
 ## 👤 About Me
 
 > AI/ML student 🚀  
@@ -32,9 +28,11 @@ Git/GitHub  | VS Code         | Indie Hacker  | AI/ML    | Open Source
 
 ---
 
-<!-- Contribution Snake Game Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MohammedZaid-AI/MohammedZaid-AI/output/github-contribution-grid-snake.svg" alt="snake game gif" />
-</p>
+## Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedZaid-AI&theme=react-dark&hide_border=true&area=true)
 
 ---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MohammedZaid-AI&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
