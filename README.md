@@ -1,6 +1,6 @@
 <!-- Mohammed Zaid - AI/ML Student 🚀 -->
 
-## 👤 About Me
+## 👤 Mohammed Zaid
 
 > AI/ML student 🚀  
 > Building things that don’t suck. Passionate about AI, startups, and tech that makes a mark.  
