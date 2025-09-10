@@ -1,4 +1,4 @@
-<!-- Mohammed Zaid - AI/ML Student 🚀 -->
+  <!-- Mohammed Zaid - AI/ML Student 🚀 -->
 
 ## 👤 Mohammed Zaid
 
@@ -22,7 +22,7 @@
 ## 🧰 Toolbox
 
 ```text
-Python      | JavaScript      | HTML/CSS      | Wibe Coder
+Python      | JavaScript      | HTML/CSS      | Wibe Coder |MongoDB |SQL
 Git/GitHub  | VS Code         | Indie Hacker  | AI/ML    | Open Source
 ```
 
