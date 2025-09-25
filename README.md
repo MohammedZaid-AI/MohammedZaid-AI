@@ -22,7 +22,7 @@
 ## 🧰 Toolbox
 
 ```text
-Python      | JavaScript      | HTML/CSS      | Wibe Coder |MongoDB |SQL
+Python        | HTML/CSS      | Wibe Coder |MongoDB |SQL
 Git/GitHub  | VS Code         | Indie Hacker  | AI/ML    | Open Source
 ```
 
