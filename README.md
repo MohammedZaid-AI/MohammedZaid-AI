@@ -22,8 +22,8 @@
 ## 🧰 Toolbox
 
 ```text
-Python        | HTML/CSS      | vibe Coder |MongoDB |SQL
-Git/GitHub  | VS Code         | Indie Hacker  | AI/ML    | Open Source
+Python      | HTML/CSS         |vibe Coder     |MongoDB     |MYSQL        |FASTMCP     |CHROMADB     |FAISS  
+Git/GitHub  | VS Code/TRAE     |Indie Hacker   | LLMS       |Open Source  |FLASK       |LANGCHAIN    |JAVA   |OPENCV
 ```
 
 ---
