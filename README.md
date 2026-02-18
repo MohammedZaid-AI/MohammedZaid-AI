@@ -14,7 +14,8 @@
 > ➜ **primary email:** [mohammedzaid83505@gmail.com](mailto:mohammedzaid83505@gmail.com)  
 > ➜ **linkedin:** [Mohammed Zaid](https://www.linkedin.com/in/mohammed-zaid-823a20240/)  
 > ➜ **twitter:** [@mhdzaaaid](https://twitter.com/mhdzaaaid)  
-> ➜ **spotify:** [Zaid](https://open.spotify.com/user/31d3y5zjo3f6lqz2rw2r5qah5c3a) 
+> ➜ **spotify:** [Zaid](https://open.spotify.com/user/31d3y5zjo3f6lqz2rw2r5qah5c3a)
+> ➜ **protfolio:** [Zaid](https://protfolio-omega-lyart.vercel.app/)
 
 ---
 
