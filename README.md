@@ -25,7 +25,7 @@
 
 ```text
 Python      | HTML/CSS         |vibe Coder     |MongoDB     |MYSQL        |FASTMCP     |CHROMADB     |FAISS  |n8n
-Git/GitHub  | VS Code/TRAE     |Indie Hacker   | LLMS       |Open Source  |FastAPI       |LANGCHAIN    |JAVA   |OPENCV
+Git/GitHub  | VS Code/TRAE     |Indie Hacker   | LLMS       |Open Source  |FastAPI       |LANGCHAIN    |JAVA   |OPENCV  |LangGraph on way
 ```
 
 ---
