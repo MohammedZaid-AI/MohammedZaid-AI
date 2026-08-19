@@ -6,7 +6,6 @@
 > Building things that don’t suck. Passionate about AI, startups, and tech that makes a mark.  
 > Always learning, always creating.  
 > Indie hacker bringing ideas to life.
-
 ---
 
 > ℹ️ **Note**
